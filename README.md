@@ -1,25 +1,25 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Henrique+Cruz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">My name is Henrique and I'm a Full Stack Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently improving my skills as a **Frontend Developer**
+🎯 Currently diving deeper into the **Spring Framework**
 
-💬 Ask me about **Accessibility, CSS, Javascript, React and Angular**
+🌱 Constantly learning and improving
 
-👯 I’m open to new **opportunities** and collaborations
+🤝 Always open to new **opportunities** and **collaborations**
 
 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Henr1queCruz)!
 
  </div>
 
  <div align="center"> 
-<a href="mailto:henriquebaptistacruz@gmail.com?subject=Hello%20Henrique%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dev.henriquecruz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/h-cruz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,bootstrap,tailwind,c,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,bootstrap,tailwind,java,spring" />
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma" /><br>
 </div>
 
